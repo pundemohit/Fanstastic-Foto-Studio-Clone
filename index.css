@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.block{
+    height: 30px;
+    background-color: pink;
+    margin-top: 1rem;
+}
+
+.im{
+    height: 230px;
+    width: 350px;
+    margin-top: 3.5rem;
+    margin-bottom: 2rem;
+}
+
+h3{
+    
+    text-align: center;
+}
+
+
+
+.bg{
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat; 
+    
+    background-position: top;
+
+    padding-bottom: 2rem;
+}
+
+.por{
+    height: 600px;
+    width: 400px;
+}
+
+.porty{
+    margin: 16px;
+}
+
+.por{
+    margin-top: 50px;
+}
+
+.porti{  
+    margin-top: 50px;
+    height: 222px;
+    
+}
+.po{
+    margin-top: 20px;
+    height: 222px; 
+}
+
+.portfolio{
+    background-image: url('bg.jpg');
+}
+
+h4{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.ylink{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 90px;
+}
+
+.white{
+    height:  110px;
+    margin-left: 100px;
+    margin-bottom: 80px;
+}
+
+.ring{
+    height: 450px;
+    margin-top: 15px;
+    
+}
+
+.imp{
+    margin-top: 15px;
+}
+
+.r2{
+    
+    margin-top: 50px;
+    width: 415px;
+}
+
+.ringo{
+    margin-top: 15px;
+    background-image: url('bg.jpg');
+    padding-bottom: 50px;
+}
+
+.p2{
+    margin-top: 20px;
+    
+}
+
+.block2{
+    height: 130px;
+}
+
+.f{
+    width: 100%;
+}
+
+.ft2{
+    
+    text-align: center;
+    background-image: url('bg.jpg');
+    background-position: center;
+    padding: 5px;
+}
+
+.pro{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.footer{
+    background-image: url("footer.jpg");
+    background-position: center;
+    padding-bottom: 15px;
+}
+
+.fhead{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.a1{
+    
+    color: red;
+}
+
+
+.icon{
+    margin-left: 310px;
+}
